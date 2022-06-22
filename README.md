@@ -9,4 +9,5 @@
 
 ## Socials
 LinkedIn: [Kyle Spannuth](https://www.linkedin.com/in/kyle-spannuth/)
+
 Github: [@kylespannuth](https://github.com/kylespannuth)
